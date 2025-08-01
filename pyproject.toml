@@ -1,0 +1,16 @@
+[project]
+name = ""
+version = "0.0.1"
+dependencies = [
+    "beanie==1.30.0",
+    "motor==3.7.1",
+    "mteb==1.38.30",
+    "openai==1.92.2",
+    "pymongo==4.13.2",
+    "ranx==0.3.20",
+    "tqdm==4.67.1",
+    "voyageai==0.3.2",
+]
+
+[tool.uv]
+package = false
