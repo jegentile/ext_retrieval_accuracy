@@ -5,14 +5,6 @@ This Python script evaluates the performance of vector search on a MongoDB Atlas
 
 The script is designed to test multiple embedding dimensionalities, creating a separate MongoDB collection and vector search index for each dimension to compare their performance.
 
-## 📜 Table of Contents
-
-  - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  - [Installation & Setup](https://www.google.com/search?q=%23installation--setup)
-  - [Configuration](https://www.google.com/search?q=%23configuration)
-  - [How to Run](https://www.google.com/search?q=%23how-to-run)
-  - [Workflow Explained](https://www.google.com/search?q=%23workflow-explained)
-
 -----
 
 ## Prerequisites
