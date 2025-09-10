@@ -105,7 +105,6 @@ async def main():
     task.load_data()
     await InitializeMDBRA(uri,'mrl_retrieval_accuracy')
 
-    MRL_DIMENSIONS = []
     for d in MRL_DIMENSIONS:
         print(f'Processing {MTEB_DATA_NAME} at {d} dimensionality')
         vector_field_name = f'{VECTOR_FIELD_PREFIX}_{d}'
